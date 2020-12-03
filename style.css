@@ -390,3 +390,6 @@ input:focus {
 #teal {
   background: #a7ffeb;
 }
+.showData{
+  display: block;
+}
